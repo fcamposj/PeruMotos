@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549992417454",
+    "firebase_url": "https://perumotos-4062f.firebaseio.com",
+    "project_id": "perumotos-4062f",
+    "storage_bucket": "perumotos-4062f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549992417454:android:caa07145290accf95a853f",
+        "android_client_info": {
+          "package_name": "com.fcamposj.perumotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549992417454-m38aml44a5vv8lvs37re70ogl9r5sb9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcamposj.perumotos",
+            "certificate_hash": "b44719452d2ad185fee2177ef259a08d89c1014d"
+          }
+        },
+        {
+          "client_id": "549992417454-o8ob2cs8q0hms46q1mb0n94im12l0q62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-tIiqP3WtIvmHoG6pkyN7TK4bbnEEYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549992417454-o8ob2cs8q0hms46q1mb0n94im12l0q62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
